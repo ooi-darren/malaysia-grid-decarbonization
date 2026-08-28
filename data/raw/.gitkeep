@@ -1,0 +1,1 @@
+This case study's source data arrived as PDF publications (Suruhanjaya Tenaga), not machine-readable raw files — the source PDFs are kept in ../../references/ instead. This folder is kept empty (rather than removed) to match the repository structure documented in the README.
