@@ -68,3 +68,10 @@ This document defines every variable used in the Malaysia Grid Decarbonization a
 ### Known limitations
 - **This is a capacity target, not a generation or emission-factor target.** Installed capacity share, generation share, and grid emission factor (GEF) are three different metrics — a plant can exist (capacity) without running much (generation), and GEF depends on generation mix, not capacity mix. This file is used in the analysis as directional policy context for where Malaysia says it's heading, **not** as a formal benchmark GEF is measured against, and the notebook says so explicitly at first use.
 - Malaysia's other headline climate commitment — a 45% GHG-intensity-to-GDP reduction by 2030 (NDC, submitted to UNFCCC July 2021) — is an economy-wide metric (total national emissions ÷ GDP), not grid-specific, and is not included in this dataset for that reason: comparing it directly to GEF would conflate two different denominators.
+
+## Context / Secondary Sources (Qualitative)
+
+Notebook 02's "Why Is This Happening?" section adds secondary-sourced explanation (energy-sector research and reporting) for why coal's share rose despite NETR targets — not new PUBLIC/DERIVED data, so kept separate from the tables above.
+
+- TransitionZero, "From tenaga to tindakan: sparking Malaysia's coal-to-clean transition." https://www.transitionzero.org/insights/tz-cat-malaysias-coal-to-clean-transition
+- Ember, "Solar and grid flexibility critical for Malaysia's future electricity affordability and security." https://ember-energy.org/latest-insights/solar-and-grid-flexibility-critical-for-malaysia/
