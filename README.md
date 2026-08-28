@@ -1,5 +1,7 @@
 # Malaysia Grid Decarbonization: On Track or Overstated? (2017–2024)
 
+<img src="./assets/hero.png" width="720" alt="Peninsular and Sabah's grids have barely gotten cleaner in seven years">
+
 ## The Question
 
 Is Malaysia's electricity grid decarbonizing fast enough to meet its own climate commitments — and what does that pace mean for a business deciding whether to wait on the grid vs. invest in its own renewable capacity (PPAs, on-site solar) to hit its emissions targets?
@@ -40,6 +42,15 @@ The source PDFs are official government publications; the CSVs used in analysis 
 ## Methodology
 
 Business problem → objectives → data acquisition → cleaning → analysis → visualization → insight → recommendation. Each notebook opens with the question and the answer, then shows the reasoning between them — including where the available public data cannot fully answer the policy-level question, stated directly rather than glossed over.
+
+## Reproducing This Analysis
+
+```bash
+pip install -r requirements.txt
+jupyter notebook notebooks/
+```
+
+All data used is already included in `data/processed/` — notebooks read directly from there, so no external downloads are required to re-run the analysis.
 
 ## Repository Structure
 
