@@ -2,13 +2,7 @@
 
 <img src="./assets/hero.png" width="720" alt="Peninsular and Sabah's grids have barely gotten cleaner in seven years">
 
-## Explain It Simply
-
-Every time you plug something in, the electricity comes from a mix of sources — some dirty (coal, gas), some clean (solar, hydro). Malaysia has publicly promised its electricity will get cleaner over time. This project asks a simple question: has it actually happened yet?
-
-The answer is mostly **no, not really**. Two of Malaysia's three power grids (Peninsular Malaysia and Sabah) are barely any cleaner than they were seven years ago — Sabah's even got very slightly dirtier. Only Sarawak, which already ran mostly on clean hydropower to begin with, shows a real improvement. Digging into *why* reveals the real story: it's not that Malaysia gave up on clean energy — it's that building new solar and wind power fast enough to keep up with rising electricity demand (including power-hungry new data centres) has turned out to be much harder than planned, so old coal and gas plants have kept running to fill the gap.
-
-This matters for any business that assumed "the grid will clean itself up" and built that assumption into its own climate plans — the data says that assumption doesn't hold yet, at least not on the timeline the promises implied. (New to terms like "grid emission factor" or "NETR"? See the [Glossary](#glossary) near the bottom.)
+**Part of a [5-case-study portfolio](https://github.com/ooi-darren)** — see the other four.
 
 ## The Question
 
@@ -24,6 +18,14 @@ Is Malaysia's electricity grid decarbonizing fast enough to meet its own climate
 
 **2. The reason the trend is flat: coal's share of the fuel mix went up, not down.** Coal was 63.9% of Peninsular Malaysia's generation fuel mix in 2017 and 67.9% in 2024 — it never dropped below its 2017 starting share in any year of the series. Malaysia's National Energy Transition Roadmap targets 31% renewable installed capacity by 2025, but that's a capacity metric, not a generation metric — and whatever renewable capacity exists, it has not been enough to reduce coal's share of what actually gets burned. *([Notebook 02](./notebooks/02-fuel-mix-and-policy-context.ipynb))*
 **Why:** Renewable buildout has consistently lagged both its own targets and rising electricity demand — land/grid-access constraints, intermittent-solar grid-stability limits, and project approval delays have slowed new capacity, while gas and coal remain the only sources that can reliably cover baseload today. *(Full explanation in Notebook 02's "Why Is This Happening?" section.)*
+
+## Explain It Simply
+
+Every time you plug something in, the electricity comes from a mix of sources — some dirty (coal, gas), some clean (solar, hydro). Malaysia has publicly promised its electricity will get cleaner over time. This project asks a simple question: has it actually happened yet?
+
+The answer is mostly **no, not really**. Two of Malaysia's three power grids (Peninsular Malaysia and Sabah) are barely any cleaner than they were seven years ago — Sabah's even got very slightly dirtier. Only Sarawak, which already ran mostly on clean hydropower to begin with, shows a real improvement. Digging into *why* reveals the real story: it's not that Malaysia gave up on clean energy — it's that building new solar and wind power fast enough to keep up with rising electricity demand (including power-hungry new data centres) has turned out to be much harder than planned, so old coal and gas plants have kept running to fill the gap.
+
+This matters for any business that assumed "the grid will clean itself up" and built that assumption into its own climate plans — the data says that assumption doesn't hold yet, at least not on the timeline the promises implied. (New to terms like "grid emission factor" or "NETR"? See the [Glossary](#glossary) near the bottom.)
 
 ## Why This Project
 
