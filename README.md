@@ -47,8 +47,8 @@ The source PDFs are official government publications; the CSVs used in analysis 
 
 | # | Question | Data Rigor |
 |---|---|---|
-| [01: Grid Emission Factor Trend](./notebooks/01-grid-emission-factor-trend.ipynb) | Has Malaysia's grid actually gotten cleaner since 2017, and at what pace, across all three regions? | PUBLIC + DERIVED |
-| [02: Fuel Mix & Policy Context](./notebooks/02-fuel-mix-and-policy-context.ipynb) | What's driving Peninsular Malaysia's flat trend, and how does it compare to Malaysia's renewable energy targets? | PUBLIC + DERIVED |
+| [01: Grid Emission Factor Trend](./notebooks/01-grid-emission-factor-trend.ipynb) | Has Malaysia's grid actually gotten cleaner since 2017, and at what pace, across all three regions? | DERIVED |
+| [02: Fuel Mix & Policy Context](./notebooks/02-fuel-mix-and-policy-context.ipynb) | What's driving Peninsular Malaysia's flat trend, and how does it compare to Malaysia's renewable energy targets? | DERIVED |
 
 ## Methodology
 
