@@ -2,7 +2,7 @@
 
 <img src="./assets/hero.png" width="720" alt="Peninsular and Sabah's grids have barely gotten cleaner in seven years">
 
-**Part of a [9-case-study portfolio](https://github.com/ooi-darren)**. See the other eight.
+**Part of a [10-case-study portfolio](https://github.com/ooi-darren)**. See the other nine.
 
 ## The Question
 
